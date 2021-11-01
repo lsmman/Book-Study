@@ -26,7 +26,7 @@ public class ThrowableGetSuppressedExample {
 
 
     /**
-     * @throws CustomMultiException
+     * @throws Exception
      * IOException 속의 숨겨진(suppressed) NumberFormatException이 존재하는 형태
      */
     public static void raiseCustomMultiException() throws Exception {
