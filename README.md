@@ -9,4 +9,4 @@
 ### Ch.02
 
 #### Item 9: try-with-resources 를 사용해라
-[:link:](src/Effective_Java/item9)
+[:link:](src/EffectiveJava/item9)
