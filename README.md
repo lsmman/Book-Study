@@ -8,5 +8,6 @@
 
 ### Contents
 
-#### [:link:](src/EffectiveJava/item9) Item 9: try-with-resources 를 사용해라 
-#### [:link:](src/EffectiveJava/item14) Item 14: Comparable을 구현할 지 고려하라
+#### Item 9: try-with-resources 를 사용해라 [:link:](src/EffectiveJava/item9)
+#### Item 14: Comparable을 구현할 지 고려하라 [:link:](src/EffectiveJava/item14)
+#### Item 15: 클래스와 멤버의 접근 권한을 최소화하라 [:link:](src/EffectiveJava/item15) 
