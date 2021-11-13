@@ -1,0 +1,63 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CaseInsensitiveString",
+            "request": "launch",
+            "mainClass": "EffectiveJava.item14.CaseInsensitiveString",
+            "projectName": "Book-Study_8fe8f584"
+        },
+        {
+            "type": "java",
+            "name": "Launch Closet",
+            "request": "launch",
+            "mainClass": "EffectiveJava.item14.Closet",
+            "projectName": "Book-Study_8fe8f584"
+        },
+        {
+            "type": "java",
+            "name": "Launch PhoneNumber",
+            "request": "launch",
+            "mainClass": "EffectiveJava.item14.PhoneNumber",
+            "projectName": "Book-Study_8fe8f584"
+        },
+        {
+            "type": "java",
+            "name": "Launch WordList",
+            "request": "launch",
+            "mainClass": "EffectiveJava.item14.WordList",
+            "projectName": "Book-Study_8fe8f584"
+        },
+        {
+            "type": "java",
+            "name": "Launch CustomAutoCloseable",
+            "request": "launch",
+            "mainClass": "EffectiveJava.item9.CustomAutoCloseable",
+            "projectName": "Book-Study_8fe8f584"
+        },
+        {
+            "type": "java",
+            "name": "Launch ThrowableGetSuppressedExample",
+            "request": "launch",
+            "mainClass": "EffectiveJava.item9.ThrowableGetSuppressedExample",
+            "projectName": "Book-Study_8fe8f584"
+        },
+        {
+            "type": "java",
+            "name": "Launch try_with_resources",
+            "request": "launch",
+            "mainClass": "EffectiveJava.item9.try_with_resources",
+            "projectName": "Book-Study_8fe8f584"
+        }
+    ]
+}
