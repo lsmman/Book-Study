@@ -180,7 +180,8 @@ public interface MainlyPublic {
         public static final Integer[] values() {
             return PRIVATE_VALUES.clone();
     ```
-    
+
+### 🧑‍💻 코드 실습: [링크](https://github.com/lsmman/Book-Study/tree/main/src/EffectiveJava/item15/practice)
 
 ## ✔️ 참고
 
