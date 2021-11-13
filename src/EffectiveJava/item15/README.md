@@ -45,7 +45,7 @@ public interface MainlyPublic {
 - 멤버의 접근성 제어
     - 선언된 위치 (Local, Global)
     - 접근 제어자 (private, protected, default, public)
-    - 접근 제어자에 대해 자세히 알고 싶다면 [링크](src/EffectiveJava/item15/접근제어자.md)
+    - 접근 제어자에 대해 자세히 알고 싶다면 [링크](접근제어자.md)
 ---
 
 <br/>
