@@ -1,11 +1,17 @@
 package EffectiveJava.item15.practice.team;
 
 public class Life {
-    public void eat(){
+    protected void eat(){
         cook();
         System.out.println("먹기");
     }
-    public void cook(){
+    private void cook(){
         System.out.println("간단한 요리");
+
+    }
+
+    public static void main(String[] args) {
+        Developer.Plan plan = new Developer.Plan();
+
     }
 }

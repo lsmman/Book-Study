@@ -12,7 +12,7 @@ public class PackageA {
 
         // default
         SamePackage samePackage = new SamePackage();
-//        System.out.println(samePackage.var); // 같은 패키지니까 접근 가능
+        System.out.println(samePackage.var); // 같은 패키지니까 접근 가능
 
         // protected
         Protected aProtected = new Protected();
