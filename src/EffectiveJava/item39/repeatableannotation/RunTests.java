@@ -1,6 +1,6 @@
 package EffectiveJava.item39.repeatableannotation;
 
-import effectivejava.chapter6.item39.markerannotation.Test;
+import EffectiveJava.item39.markerannotation.Test;
 
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
